@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jamesrajraymond, curently in IT software department. To behonest, I do not have experience in developing Softwares
+- 👋 Hi, I’m @Jamesrajraymond, curently in IT software department. To be honest, I do not have experience in developing Softwares
 - 👀 I’m interested in making my organization to have better tools for manufacturing side.
 - 🌱 I’m currently learning to manage , develope and enhance current softwares withing the organization
 - 💞️ I’m looking to collaborate on Manufacturing enhancements tools and software developements 
